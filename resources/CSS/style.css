@@ -1,2 +1,28 @@
-* {background-color: #78866B;}
+* {
+    background-color: #78866B;
+}
+
+h3 {
+    color: red; 
+}
+
+p {
+    color: #5C4033;
+}
+
+h4 {
+    color: red;
+}
+
+li {
+    color: #5C4033;
+}
+
+h1 {
+    color: red;
+}
+
+a {
+    color: blue;
+}
 
