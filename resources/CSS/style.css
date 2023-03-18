@@ -5,29 +5,33 @@
 
 li {
     color: #5C4033;
+    margin-left: 25%;
+    margin-right: 25%; 
 }
 
 img {
+    padding-bottom: 25px;
+    padding-top: 25px;
     display: block;
     max-width: 100%;
     height: auto;
     align: center;
     margin: auto;
+    border-radius: 10px;
 }
 
 html {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 }
 
-h1 {
+h1, h2, h3, h4 {
+    color: red;
     text-align: center;
 }
 
-li {
-    margin: auto;
-}
 
 p {
+    color: #5C4033;
     margin-left: 25%;
     margin-right: 25%;
 }
