@@ -1,23 +1,25 @@
-* {
-    background-color: #78866B;
+#Main {
+    background-color: #78866B !important;
+    margin-left: 25% !important;
+    margin-right: 25% !important;
+    width: 825 !important;
+    max-width: 825 !important;
 }
 
 
 li {
     color: #5C4033;
-    margin-left: 25%;
-    margin-right: 25%; 
+    text-align: center; 
 }
 
 img {
-    padding-bottom: 25px;
-    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-top: 50px;
     display: block;
     max-width: 100%;
     height: auto;
     align: center;
     margin: auto;
-    border-radius: 10px;
 }
 
 html {
@@ -27,6 +29,8 @@ html {
 h1, h2, h3, h4 {
     color: red;
     text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 
