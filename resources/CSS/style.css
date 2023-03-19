@@ -5,8 +5,9 @@
     max-width: 850 !important;
 }
 
-#Main:not(img) {
-    opacity: 0.9;
+li {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .nav {
