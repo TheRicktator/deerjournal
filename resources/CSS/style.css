@@ -14,10 +14,16 @@ html {
     background-size: cover;
 }
 
-li {
+ul {
     color: #5C4033;
     margin-left: 40%;
     margin-right: 45%;
+}
+
+ol {
+    color: #5C4033;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 img {
