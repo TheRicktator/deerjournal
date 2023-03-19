@@ -1,9 +1,9 @@
 #Main {
     background-color: #78866B !important;
-    margin-left: 25% !important;
-    margin-right: 25% !important;
+    margin: auto;
     width: 850 !important;
     max-width: 850 !important;
+    opacity: 0.90;
 }
 
 .nav {
