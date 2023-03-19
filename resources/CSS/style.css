@@ -3,7 +3,10 @@
     margin: auto;
     width: 850 !important;
     max-width: 850 !important;
-    opacity: 0.90;
+}
+
+#Main:not(img) {
+    opacity: 0.9;
 }
 
 .nav {
@@ -37,7 +40,6 @@ ol {
 }
 
 img {
-    opacity: 1.0 !important;
     border-radius: 30px;
     padding-bottom: 50px;
     padding-top: 50px;
