@@ -3,6 +3,15 @@
     margin: auto;
     width: 850 !important;
     max-width: 850 !important;
+    border-radius: 30px;
+}
+
+.round {
+    border-radius: 30px;
+}
+
+.fix {
+    margin: auto;
 }
 
 li {
