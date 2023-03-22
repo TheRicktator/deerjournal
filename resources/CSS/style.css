@@ -6,11 +6,8 @@
     border-radius: 30px;
 }
 
-.round {
-    border-radius: 30px;
-}
-
 .fix {
+    text-align: center;
     margin: auto;
 }
 
