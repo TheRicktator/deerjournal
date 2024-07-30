@@ -71,8 +71,7 @@ h1, h2, h3, h4 {
 
 p {
     color: #5C4033;
-    margin-left: 10%;
-    margin-right: 10%;
+    text-align: center;
 }
 
 .back {
